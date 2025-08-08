@@ -143,25 +143,6 @@ start index.html
   --your-variable: #your-dark-color;
 }
 ```
-
-## 📸 Screenshots
-
-### Desktop View (Light Mode)
-
-![Desktop Light Mode](screenshots/desktop-light.png)
-
-### Desktop View (Dark Mode)
-
-![Desktop Dark Mode](screenshots/desktop-dark.png)
-
-### Mobile View (Light Mode)
-
-![Mobile Light Mode](screenshots/mobile-light.png)
-
-### Mobile View (Dark Mode)
-
-![Mobile Dark Mode](screenshots/mobile-dark.png)
-
 ## 🧪 Testing
 
 ### Browser Compatibility
